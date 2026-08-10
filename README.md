@@ -517,31 +517,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## ⚠️ Disclaimer
 
 This application is designed for educational and research purposes. Always consult with qualified healthcare professionals for medical decisions. The AI-generated diagnoses should be used as supplementary information only and not as a replacement for professional medical advice.
-
----
-
-## 📞 Support & Contact
-
-- 🐛 **Bug Reports:** [Create an Issue](../../issues)
-- 💡 **Feature Requests:** [Create an Issue](../../issues)
-- 📖 **Documentation:** [Wiki Pages](../../wiki)
-- 💬 **Discussions:** [GitHub Discussions](../../discussions)
-
----
-
-<div align="center">
-
-**Made with ❤️ for Healthcare Innovation**
-
-*Empowering medical professionals with AI-driven diagnostic insights*
-
-</div>
