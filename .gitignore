@@ -1,0 +1,51 @@
+# Python
+.venv
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Database backups
+backup_*.json
+backups/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Uploaded files
+uploaded_dir/
+uploaded_reports/
+
+# Vector store data
+vectorstore/
+*.faiss
+*.pkl
+

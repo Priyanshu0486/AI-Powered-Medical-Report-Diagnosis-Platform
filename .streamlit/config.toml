@@ -1,0 +1,31 @@
+[global]
+# Development settings
+developmentMode = false
+showWarningOnDirectExecution = false
+
+[server]
+# Server settings  
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+maxUploadSize = 200
+maxMessageSize = 200
+
+[browser]
+# Browser settings
+serverAddress = "0.0.0.0"
+gatherUsageStats = false
+serverPort = 8501
+
+[theme]
+# Medical theme
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6" 
+textColor = "#262730"
+font = "sans serif"
+
+[client]
+# Client settings
+showErrorDetails = false
+toolbarMode = "viewer"

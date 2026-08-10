@@ -1,0 +1,5 @@
+# Migration Script Requirements
+# Run: pip install -r migration_requirements.txt
+
+pymongo>=4.6.0
+python-dotenv>=1.0.0
